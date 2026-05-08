@@ -1,6 +1,6 @@
 # EnOcean Module for M5Stack Unit
 
-EnOceanセンサーをM5Stackで扱うためのGrove接続モジュールで
+EnOceanセンサーをM5Stackで扱うためのGrove接続モジュールです。
 
 ---
 
@@ -36,8 +36,7 @@ Groveポートに接続するだけで利用できます。
 ---
 
 ## 購入
-
-https://xmakers.base.shop/
+BASE: https://xmakers.base.shop/
 
 ---
 
